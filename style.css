@@ -27,12 +27,17 @@ h2 {
 	text-align: center;
 	padding: 100px 5px 100px 5px;
 	background-size: cover;
+	background-position: center;
 }
 
 #bannersubtitle {
 	color: white;
 	font-size: 35px;
 	font-family: 'Sacramento', cursive;
+}
+
+#banner img {
+	object-fit: : cover;
 }
 
 #footer {
